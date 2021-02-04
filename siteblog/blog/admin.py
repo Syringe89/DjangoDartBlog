@@ -19,7 +19,13 @@ class PostAdmin(admin.ModelAdmin):
     form = PostAdminForm
     prepopulated_fields = {'slug': ('title',)}
     save_as = True
+    save_on_top = True
     list_display = ('id', 'title', 'slug', 'category', 'created_at', 'get_photo')
+    list_display_links = ('id', 'title')
+    search_fields = ('title',)
+    list_filter = ('category', 'tags')
+    readonly_fields = ('views', 'created_at', 'get_photo')
+    fields = ('title', 'slug', 'category', 'tags', 'content', 'photo', 'get_photo', 'views', 'created_at')
 
     def get_photo(self, obj):
         if obj.photo:
@@ -28,6 +34,7 @@ class PostAdmin(admin.ModelAdmin):
             return '-'
 
     get_photo.short_description = 'Фото'
+
 
 @admin.register(models.Category)
 class CategoryAdmin(admin.ModelAdmin):
