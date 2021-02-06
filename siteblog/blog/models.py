@@ -1,4 +1,7 @@
 from django.db import models
+from django.urls import reverse
+
+from blog.views import get_category
 
 
 class Category(models.Model):
@@ -7,6 +10,9 @@ class Category(models.Model):
 
     def __str__(self):
         return self.title
+
+    def get_absolute_url(self):
+        return reverse('category', kwargs={'slug': self.slug})
 
     class Meta:
         ordering = ['title']
