@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from django.shortcuts import render
 from django.views.generic import ListView, DetailView
 
-from blog.models import Post, Category
+from blog.models import Post, Category, Tag
 
 
 class Home(ListView):
@@ -47,4 +47,15 @@ class GetPost(DetailView):
 
 
 class PostsByTag(ListView):
-    pass
+    template_name = 'blog/index.html'
+    context_object_name = 'posts'
+    paginate_by = 4
+    allow_empty = False
+
+    def get_queryset(self):
+        return Post.objects.filter(tags__slug=self.kwargs['slug'])
+
+    def get_context_data(self, *, object_list=None, **kwargs):
+        context = super().get_context_data(**kwargs)
+        context['title'] = 'Записи по тегу: ' + str(Tag.objects.get(slug=self.kwargs['slug']))
+        return context
