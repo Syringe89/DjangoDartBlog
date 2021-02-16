@@ -1,0 +1,596 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2021-02-02T15:03:04.632Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Lifestyle",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2021-02-02T15:03:07.910Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Food",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2021-02-02T15:03:23.769Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Nature",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2021-02-02T15:03:39.460Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Photography",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2021-02-02T15:04:09.114Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Adventure",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2021-02-02T15:04:13.329Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Animals",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2021-02-02T15:04:17.700Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Asia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2021-02-02T15:04:28.046Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Beauty",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2021-02-02T15:04:32.058Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Canada",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2021-02-02T15:04:41.171Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Celebration",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2021-02-02T15:04:44.818Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "City",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2021-02-02T15:04:51.105Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Coffee",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2021-02-02T15:05:00.289Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Constructions",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2021-02-02T15:05:05.509Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Europe",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2021-02-04T13:22:16.415Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "Новость 1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2021-02-04T13:24:28.916Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "Новость 2",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2021-02-04T13:25:40.093Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "Новость 3",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2021-02-04T13:26:40.975Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "4",
+    "object_repr": "Новость 4",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2021-02-04T13:27:43.479Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Новость 5",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2021-02-04T13:28:38.984Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "6",
+    "object_repr": "Новость 6",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2021-02-04T13:31:14.797Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Новость 7",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2021-02-04T13:31:52.066Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "Новость 8",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2021-02-06T14:45:24.192Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "7",
+    "object_repr": "Новость 7",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2021-02-06T15:51:18.643Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "5",
+    "object_repr": "Новость 5",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"content\"]}}]"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$216000$kwx7XfJEF713$6JARSqy1bhuf4US7HXpGsfPAeqor/Dbdiqz+3hbNWDc=",
+    "last_login": "2021-02-02T14:30:08.381Z",
+    "is_superuser": true,
+    "username": "syringe89",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2021-02-02T14:29:09.446Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "blog.category",
+  "pk": 1,
+  "fields": {
+    "title": "Lifestyle",
+    "slug": "lifestyle"
+  }
+},
+{
+  "model": "blog.category",
+  "pk": 2,
+  "fields": {
+    "title": "Food",
+    "slug": "food"
+  }
+},
+{
+  "model": "blog.category",
+  "pk": 3,
+  "fields": {
+    "title": "Nature",
+    "slug": "nature"
+  }
+},
+{
+  "model": "blog.category",
+  "pk": 4,
+  "fields": {
+    "title": "Photography",
+    "slug": "photography"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 1,
+  "fields": {
+    "title": "Adventure",
+    "slug": "adventure"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 2,
+  "fields": {
+    "title": "Animals",
+    "slug": "animals"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 3,
+  "fields": {
+    "title": "Asia",
+    "slug": "asia"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 4,
+  "fields": {
+    "title": "Beauty",
+    "slug": "beauty"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 5,
+  "fields": {
+    "title": "Canada",
+    "slug": "canada"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 6,
+  "fields": {
+    "title": "Celebration",
+    "slug": "celebration"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 7,
+  "fields": {
+    "title": "City",
+    "slug": "city"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 8,
+  "fields": {
+    "title": "Coffee",
+    "slug": "coffee"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 9,
+  "fields": {
+    "title": "Constructions",
+    "slug": "constructions"
+  }
+},
+{
+  "model": "blog.tag",
+  "pk": 10,
+  "fields": {
+    "title": "Europe",
+    "slug": "europe"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Новость 1",
+    "slug": "novost-1",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et consequat est, vitae dignissim est. Integer tincidunt sem orci, id euismod massa eleifend in. Nam ut orci in quam ultricies condimentum. In rutrum bibendum sodales. Aliquam ut magna dictum, molestie dui nec, ultricies ligula. Proin dictum ex ut pharetra facilisis. Quisque sem nisi, blandit a lectus vitae, varius lobortis libero. Nullam et dignissim erat. Fusce sollicitudin leo nec vulputate sollicitudin. Phasellus efficitur a quam sed dictum. Suspendisse sed tortor est. Aliquam erat volutpat. Duis ultrices nisi in sem mollis, sit amet luctus nunc bibendum. Morbi imperdiet posuere arcu, ut hendrerit mi tincidunt a. Sed id quam in augue porttitor lacinia sit amet nec nulla.</p>\r\n\r\n<p>Sed ornare libero dui. Fusce sapien ligula, consectetur a convallis non, facilisis non sapien. Vivamus quis ante congue, facilisis sem vulputate, aliquet urna. Duis blandit tempus lobortis. Phasellus at euismod nulla. Ut tincidunt arcu quis ante laoreet pellentesque. Maecenas pulvinar, ipsum se<img alt=\"\" src=\"/media/uploads/2021/02/04/post-image1.jpg\" style=\"border-style:solid; border-width:0px; float:left; height:159px; margin-left:0px; margin-right:0px; width:300px\" />d facilisis sodales, tortor urna faucibus mauris, vel suscipit lorem sem vel elit. Donec a lectus consectetur, commodo sapien id, accumsan lacus. Suspendisse ipsum arcu, viverra vitae tellus quis, congue sagittis turpis. Quisque risus sapien, molestie eu tempor nec, condimentum ut felis. Vestibulum in urna risus.</p>\r\n\r\n<p>Morbi auctor eget purus nec commodo. Cras quis mauris tincidunt, tempor lorem et, egestas elit. Integer aliquam vel ante id tincidunt. Donec tempus est risus, eget pretium odio congue quis. Praesent in facilisis diam. Fusce mauris elit, aliquam ut auctor eu, commodo quis justo. Duis in justo tempor, malesuada diam sed, rhoncus magna. Nunc id velit orci. Proin sit amet turpis quam. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis id gravida diam. Vivamus ex purus, luctus ac felis at, egestas mattis orci. Proin tincidunt ex eget lectus cursus condimentum.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:22:16.262Z",
+    "photo": "photos/2021/02/04/post-image1.jpg",
+    "views": 5,
+    "category": 2,
+    "tags": [
+      3,
+      5,
+      8
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Новость 2",
+    "slug": "novost-2",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque imperdiet lectus in faucibus tincidunt. Donec ultrices vitae lectus at ornare. Nunc ullamcorper tellus faucibus ex efficitur, eu ultrices ligula gravida. Etiam sollicitudin mollis lacinia. Mauris mollis velit eu eros pharetra suscipit. Integer eu blandit neque, non volutpat magna. Sed mattis magna nec quam fringilla hendrerit. Vestibulum eget rhoncus erat. Pellentesque consequat ligula ligula, sit amet scelerisque ipsum iaculis quis. Sed eget fermentum mauris, vitae placerat metus. Nam venenatis leo ac neque cursus ultrices. Vestibulum finibus eu nisl sed pellentesque. Quisque fringilla ut ante mollis facilisis.</p>\r\n\r\n<p>Nunc vitae elementu<img alt=\"\" src=\"/media/uploads/2021/02/04/post-image4.jpg\" style=\"float:left; height:201px; width:300px\" />m arcu, a feugiat mi. Nullam malesuada lorem quis lacinia aliquam. Curabitur sit amet orci vel elit accumsan aliquet. Suspendisse vitae purus a mi mollis mattis. Duis gravida venenatis nisi in mattis. Phasellus dapibus, enim ut finibus vestibulum, eros est varius odio, sit amet mattis mauris leo sed elit. Pellentesque quis nisl laoreet, placerat nibh nec, efficitur tortor. Curabitur sollicitudin congue ligula, nec malesuada ligula. Integer fermentum quam tempor ipsum tincidunt, eu tempus nibh tincidunt. Donec nec leo odio. Sed non suscipit ligula. Donec condimentum, justo vitae maximus placerat, metus arcu accumsan risus, ut tincidunt eros lacus quis ante. Maecenas non mauris sed mauris consequat tempor. Quisque magna justo, laoreet at dui id, tempus interdum libero. Nulla ornare, arcu vitae consectetur faucibus, erat erat accumsan erat, ut ullamcorper mauris sapien quis nunc. Fusce semper facilisis nibh et ullamcorper.</p>\r\n\r\n<p>Nullam eu faucibus eros, sed ullamcorper tellus. Aliquam venenatis bibendum lorem et tincidunt. Donec id magna rhoncus, interdum mi eu, venenatis elit. Cras ac bibendum dolor. Mauris sit amet urna massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus accumsan imperdiet lorem, vel consequat metus finibus non.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:24:28.832Z",
+    "photo": "photos/2021/02/04/post-image4.jpg",
+    "views": 2,
+    "category": 3,
+    "tags": [
+      2,
+      6,
+      10
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Новость 3",
+    "slug": "novost-3",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras bibendum bibendum mauris aliquam rhoncus. Phasellus quis augue ac ante tristique po<img alt=\"\" src=\"/media/uploads/2021/02/04/post-image7.jpg\" style=\"float:left; height:201px; width:300px\" />rttitor. Aliquam scelerisque pulvinar eleifend. Nam maximus iaculis lectus non cursus. Cras sed est risus. In ut iaculis urna, et convallis nunc. Quisque blandit metus quis turpis suscipit, id consequat urna porttitor. Nullam sed ante volutpat lacus egestas rhoncus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris pretium, nulla ut egestas porta, purus lacus hendrerit libero, sollicitudin sollicitudin diam lorem vel nisi. Nam a ornare risus. Cras a ipsum eu lectus sagittis tincidunt. Curabitur lobortis consectetur consequat. Curabitur fringilla arcu lacus, eget luctus justo dignissim in. In non commodo est.</p>\r\n\r\n<p>Ut mauris est, cursus et maximus in, vestibulum a ligula. Aenean mattis laoreet eros, ac ultrices nulla aliquet in. Nulla libero risus, varius ac nisl sed, laoreet lacinia orci. Integer vitae rutrum neque, et suscipit mauris. Nam vitae tincidunt tellus, sed maximus felis. Maecenas at nisl eget odio dapibus tincidunt non id libero. Maecenas ac est odio.</p>\r\n\r\n<p>Ut sit amet lorem vitae nibh auctor tristique. Mauris laoreet lacinia feugiat. Curabitur dapibus rhoncus metus, eget viverra ipsum pulvinar a. Suspendisse iaculis felis magna. Sed mollis leo sit amet efficitur iaculis. Integer interdum nulla a nibh sollicitudin, in sollicitudin metus ornare. Nulla pretium porttitor mauris vitae euismod. Nulla vitae tellus non libero consequat fermentum.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:25:40.008Z",
+    "photo": "photos/2021/02/04/post-image7.jpg",
+    "views": 0,
+    "category": 4,
+    "tags": [
+      4,
+      7,
+      10
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Новость 4",
+    "slug": "novost-4",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mi tellus, egestas ac mi vitae, vehicula finibus libero. Aenean vitae justo placerat velit malesuada pretium nec sit amet quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Morbi quis ex ex. Praesent elementum enim a mauris pellentesque, sed maximus augue vehicula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque laoreet egestas massa vel gravida. Nunc quis nisl orci. In lacinia velit ut leo porta dictum. Nullam nibh ipsum, dignissim sed viverra eget, hendrerit eu tellus. Praese<img alt=\"\" src=\"/media/uploads/2021/02/04/post-image6.jpg\" style=\"float:right; height:201px; width:300px\" />nt id nisi odio. Donec ac nulla placerat, tristique tortor at, faucibus purus. Nullam luctus in sapien a aliquam. Curabitur eget lorem augue. Vestibulum non luctus ligula.</p>\r\n\r\n<p>In hac habitasse platea dictumst. Suspendisse potenti. Nam neque mi, consequat id justo ut, ultrices malesuada est. Curabitur eget viverra dui, bibendum molestie enim. Quisque finibus enim at purus varius, sed mattis diam efficitur. Ut ut quam eros. Mauris non odio purus.</p>\r\n\r\n<p>Donec blandit fermentum massa. Maecenas porta dolor a mollis iaculis. Maecenas id erat arcu. Sed commodo ut dolor accumsan tempus. Nunc scelerisque dui id dui vehicula, a ullamcorper sem sodales. Vestibulum facilisis vitae sapien at mattis. Suspendisse efficitur accumsan tortor, sit amet eleifend ante iaculis sed. Donec eget interdum quam, ac ultrices mi. Nam ultricies volutpat tortor, eget pharetra lacus.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:26:40.875Z",
+    "photo": "photos/2021/02/04/post-image6.jpg",
+    "views": 0,
+    "category": 1,
+    "tags": [
+      1,
+      4,
+      10
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Новость 5",
+    "slug": "novost-5",
+    "author": "Admin",
+    "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper ornare sapien, in aliquam est fringilla volutpat. Sed auctor ac purus et interdum. Sed aliquet vitae velit dictum tempus. Morbi lacinia nisl sed felis viverra, ac aliquam sapien commodo. Vestibulum vulputate pharetra turpis, sed lobortis nibh. Etiam lacinia sem nunc, eu scelerisque ante hendrerit at. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>\r\n\r\n<div class=\"boxed\">\r\n<div id=\"lipsum\">\r\n<p>Vivamus eu dictum risus, ac condimentum risus. Vestibulum at vestibulum ante, vitae feugiat metus. Curabitur eget fringilla nulla. Vestibulum vitae arcu lectus. Donec aliquet quam odio, et sollicitudin justo varius quis. Etiam quam purus, tincidunt ac tellus vitae, porta pellentesque risus. Donec vitae nulla in lectus facilisis viverra. Donec ut fermentum odio. Nulla ullamcorper libero vitae quam dapibus, eu convallis ex varius.</p>\r\n\r\n<p>Proin id bibendum massa. Orc<img alt=\"\" src=\"/media/uploads/2021/02/04/post-image5.jpg\" style=\"float:left; height:201px; width:300px\" />i varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam ac leo enim. Integer vitae convallis ex. Proin egestas leo in eros dignissim, vel volutpat ex consectetur. Cras ac suscipit nisl. Praesent ornare porta orci, a bibendum nunc posuere vel. Cras at rhoncus orci. In ullamcorper non arcu id congue. Etiam commodo non felis sed auctor. Nunc feugiat, urna eu mattis suscipit, tellus lectus pulvinar felis, id scelerisque orci magna ut dolor. Phasellus molestie ac nibh eget vestibulum.</p>\r\n</div>\r\n</div>",
+    "created_at": "2021-02-04T13:27:43.395Z",
+    "photo": "photos/2021/02/04/post-image5.jpg",
+    "views": 7,
+    "category": 4,
+    "tags": [
+      1,
+      6
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Новость 6",
+    "slug": "novost-6",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in elit at arcu facilisis pellentesque quis eget eros. Suspendisse auctor tempor arcu, vitae ultricies ex cursus id. Proin mauris leo, aliquam sit amet neque non, rhoncus molestie odio. Quisque id velit libero. Aliquam sollicitudin ligula ultrices sapien volutpat, quis cursus ipsum gravida. Nunc sed diam dignissim, aliquet mi in, efficitur elit. Phasellus eget urna eu eros condimentum lobortis. Etiam posuere dolor venenatis felis feugiat posuere. Pellentesque suscipit, risus sed ullamcorper aliquam, sapien massa dapibus dui, at elementum dolor neque vitae odio. Fusce congue mollis nibh a tincidunt. Vivamus interdum, tellus in luctus fermentum, metus quam finibus mi, sed gravida lorem mauris ut ligula. Nullam nunc odio, commodo nec consequat at, pharetra sed augue.</p>\r\n\r\n<p>Nulla luctus at purus sed fermentum. Curabitur commodo et lorem nec lacinia. Donec congue justo in ante viverra, sed rhoncus dolor iaculis. Sed id molestie orci, quis aliquam purus. Aliquam mattis tellus sed ligula semper congue. Duis efficitur nunc at quam auctor feugiat. Praesent at interdum arcu, sed euismod urna.</p>\r\n\r\n<p>Integer suscipit egestas libero, vel elementum mauris blandit varius. Praesent bibendum dictum velit, ut aliqu<img alt=\"\" src=\"/media/uploads/2021/02/04/single-bg.jpg\" style=\"float:right; height:143px; width:300px\" />am lectus suscipit eu. Suspendisse ornare mauris erat, quis blandit sapien mollis vitae. Mauris ac urna lectus. Integer vitae sapien quis lorem tristique pretium faucibus vel felis. Integer congue, odio vitae elementum pellentesque, arcu neque condimentum nibh, vel rhoncus lacus orci eu purus. Vivamus sodales, libero in auctor pharetra, mi ante ornare massa, eu feugiat est lectus non nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus lacinia augue nec massa bibendum fringilla. Nullam augue justo, dignissim sit amet rhoncus sit amet, dictum a tellus. Suspendisse fringilla molestie porttitor.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:28:38.884Z",
+    "photo": "photos/2021/02/04/single-bg.jpg",
+    "views": 15,
+    "category": 2,
+    "tags": [
+      2,
+      3,
+      8,
+      10
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Новость 7",
+    "slug": "novost-7",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in elit at arcu facilisis pellentesque quis eget eros. Suspendisse auctor tempor arcu, vitae ultricies ex cursus id. Proin mauris leo, aliquam sit amet neque non, rhoncus molestie odio. Quisque id velit libero. Aliquam sollicitudin lig<img alt=\"\" src=\"/media/uploads/2021/02/04/single-bg.jpg\" style=\"float:left; height:143px; width:300px\" />ula ultrices sapien volutpat, quis cursus ipsum gravida. Nunc sed diam dignissim, aliquet mi in, efficitur elit. Phasellus eget urna eu eros condimentum lobortis. Etiam posuere dolor venenatis felis feugiat posuere. Pellentesque suscipit, risus sed ullamcorper aliquam, sapien massa dapibus dui, at elementum dolor neque vitae odio. Fusce congue mollis nibh a tincidunt. Vivamus interdum, tellus in luctus fermentum, metus quam finibus mi, sed gravida lorem mauris ut ligula. Nullam nunc odio, commodo nec consequat at, pharetra sed augue.</p>\r\n\r\n<p>Nulla luctus at purus sed fermentum. Curabitur commodo et lorem nec lacinia. Donec congue justo in ante viverra, sed rhoncus dolor iaculis. Sed id molestie orci, quis aliquam purus. Aliquam mattis tellus sed ligula semper congue. Duis efficitur nunc at quam auctor feugiat. Praesent at interdum arcu, sed euismod urna.</p>\r\n\r\n<p>Integer suscipit egestas libero, vel elementum mauris blandit varius. Praesent bibendum dictum velit, ut aliquam lectus suscipit eu. Suspendisse ornare mauris erat, quis blandit sapien mollis vitae. Mauris ac urna lectus. Integer vitae sapien quis lorem tristique pretium faucibus vel felis. Integer congue, odio vitae elementum pellentesque, arcu neque condimentum nibh, vel rhoncus lacus orci eu purus. Vivamus sodales, libero in auctor pharetra, mi ante ornare massa, eu feugiat est lectus non nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus lacinia augue nec massa bibendum fringilla. Nullam augue justo, dignissim sit amet rhoncus sit amet, dictum a tellus. Suspendisse fringilla molestie porttitor.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:31:14.712Z",
+    "photo": "photos/2021/02/06/single-bg.jpg",
+    "views": 22,
+    "category": 4,
+    "tags": [
+      1,
+      7,
+      10
+    ]
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "Новость 8",
+    "slug": "novost-8",
+    "author": "Admin",
+    "content": "<div id=\"lipsum\">\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in elit at arcu facilisis pellentesque quis eget eros. Suspendisse auctor tempor arcu, vitae ultricies ex cursus id. Proin mauris leo, aliquam sit amet neque non, rhoncus molestie odio. Quisque id velit libero. Aliquam sollicitudin lig<img alt=\"\" src=\"/media/uploads/2021/02/04/post-image9.jpg\" style=\"float:left; height:201px; width:300px\" />ula ultrices sapien volutpat, quis cursus ipsum gravida. Nunc sed diam dignissim, aliquet mi in, efficitur elit. Phasellus eget urna eu eros condimentum lobortis. Etiam posuere dolor venenatis felis feugiat posuere. Pellentesque suscipit, risus sed ullamcorper aliquam, sapien massa dapibus dui, at elementum dolor neque vitae odio. Fusce congue mollis nibh a tincidunt. Vivamus interdum, tellus in luctus fermentum, metus quam finibus mi, sed gravida lorem mauris ut ligula. Nullam nunc odio, commodo nec consequat at, pharetra sed augue.</p>\r\n\r\n<p>Nulla luctus at purus sed fermentum. Curabitur commodo et lorem nec lacinia. Donec congue justo in ante viverra, sed rhoncus dolor iaculis. Sed id molestie orci, quis aliquam purus. Aliquam mattis tellus sed ligula semper congue. Duis efficitur nunc at quam auctor feugiat. Praesent at interdum arcu, sed euismod urna.</p>\r\n\r\n<p>Integer suscipit egestas libero, vel elementum mauris blandit varius. Praesent bibendum dictum velit, ut aliquam lectus suscipit eu. Suspendisse ornare mauris erat, quis blandit sapien mollis vitae. Mauris ac urna lectus. Integer vitae sapien quis lorem tristique pretium faucibus vel felis. Integer congue, odio vitae elementum pellentesque, arcu neque condimentum nibh, vel rhoncus lacus orci eu purus. Vivamus sodales, libero in auctor pharetra, mi ante ornare massa, eu feugiat est lectus non nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus lacinia augue nec massa bibendum fringilla. Nullam augue justo, dignissim sit amet rhoncus sit amet, dictum a tellus. Suspendisse fringilla molestie porttitor.</p>\r\n</div>",
+    "created_at": "2021-02-04T13:31:51.966Z",
+    "photo": "photos/2021/02/04/post-image9.jpg",
+    "views": 13,
+    "category": 1,
+    "tags": [
+      2,
+      5,
+      7
+    ]
+  }
+}
+]
