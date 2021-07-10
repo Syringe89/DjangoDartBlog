@@ -1,0 +1,6 @@
+/.idea/
+/venv/
+/siteblog/django_cache/
+/siteblog/media/
+/siteblog/db.*
+/siteblog/dump.json
